@@ -1,0 +1,35 @@
+
+@font-face {
+    font-family: 'frizquadratacregular';
+    src: url('../fonts/frizquadratac_0.html');
+    src: url('../fonts/frizquadratac_0d41d.html?#iefix') format('embedded-opentype'),
+         url('../fonts/frizquadratac_0.woff') format('woff'),
+         url('../fonts/frizquadratac_0-2.html') format('truetype'),
+         url('../fonts/frizquadratac_0-3.html#frizquadratacregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'frizquadratacbold';
+    src: url('../fonts/frizquadratac-bold.html');
+    src: url('../fonts/frizquadratac-boldd41d.html?#iefix') format('embedded-opentype'),
+         url('../fonts/frizquadratac-bold.woff') format('woff'),
+         url('../fonts/frizquadratac-bold-2.html') format('truetype'),
+         url('../fonts/frizquadratac-bold-3.html#frizquadratacbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'arialnarrow_bold';
+    src: url('../fonts/arialnb.html');
+    src: url('../fonts/arialnbd41d.html?#iefix') format('embedded-opentype'),
+         url('../fonts/arialnb.woff') format('woff'),
+         url('../fonts/arialnb.ttf') format('truetype'),
+         url('../fonts/arialnb-2.html#arialnarrow_bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
